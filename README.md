@@ -88,3 +88,5 @@ To access darknet markets, use their official onion URLs. Always ensure you’re
 
 Use this guide to navigate darknet markets responsibly.
 Plase contribute and add stars to this repo.
+
+Update:  07/04/2025 Fixed broken links in debugging resources
